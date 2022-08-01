@@ -18,7 +18,7 @@ A perfect first challenge if you're new to HTML and CSS.
 
 ### Screenshot
 
-![./images/Screenshot.png](./screenshot.jpg)
+![./images/Screenshot.png](./screenshot.png)
 
 ### Links
 
